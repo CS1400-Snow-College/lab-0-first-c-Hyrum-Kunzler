@@ -1,7 +1,7 @@
-//part 
-1Console.WriteLine("Hello, World!");
-//part 
-2string aFriend = "Bill";
+//part 1
+Console.WriteLine("Hello, World!");
+//part 2
+string aFriend = "Bill";
 Console.WriteLine(aFriend);aFriend = "Maira";
 Console.WriteLine(aFriend);
 Console.WriteLine("Hello " + aFriend);
@@ -32,9 +32,6 @@ string songLyrics = "You say goodbye, and I say hello";
 Console.WriteLine(songLyrics.Contains("goodbye"));
 Console.WriteLine(songLyrics.Contains("greetings"));
 //part 6
-string songLyrics = "You say goodbye, and I say hello";
-Console.WriteLine(songLyrics.StartsWith("You"));
-Console.WriteLine(songLyrics.StartsWith("goodbye"));
 Console.WriteLine(songLyrics.EndsWith("hello"));
 Console.WriteLine(songLyrics.EndsWith("goodbye"));
 //part 7

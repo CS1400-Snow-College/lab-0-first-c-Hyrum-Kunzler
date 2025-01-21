@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-0-first-c-Hyrum-Kunzler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5644527b4c08b29ea4594d13fcf7b866358d432e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+354af09702e40c7c6cdd3db52b63203705c47dcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-0-first-c-Hyrum-Kunzler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-0-first-c-Hyrum-Kunzler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

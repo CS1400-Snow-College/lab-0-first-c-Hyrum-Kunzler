@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\my-code-dir\\Labs\\lab-0-first-c-Hyrum-Kunzler\\lab-0-first-c-Hyrum-Kunzler.csproj",
+      "projectUniqueName": "C:\\my-code-dir\\Lab0\\lab-0-first-c-Hyrum-Kunzler\\lab-0-first-c-Hyrum-Kunzler.csproj",
       "projectName": "lab-0-first-c-Hyrum-Kunzler",
-      "projectPath": "C:\\my-code-dir\\Labs\\lab-0-first-c-Hyrum-Kunzler\\lab-0-first-c-Hyrum-Kunzler.csproj",
+      "projectPath": "C:\\my-code-dir\\Lab0\\lab-0-first-c-Hyrum-Kunzler\\lab-0-first-c-Hyrum-Kunzler.csproj",
       "packagesPath": "C:\\Users\\Yeet\\.nuget\\packages\\",
-      "outputPath": "C:\\my-code-dir\\Labs\\lab-0-first-c-Hyrum-Kunzler\\obj\\",
+      "outputPath": "C:\\my-code-dir\\Lab0\\lab-0-first-c-Hyrum-Kunzler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yeet\\AppData\\Roaming\\NuGet\\NuGet.Config"
